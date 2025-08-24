@@ -44,5 +44,5 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-- **Your Name:** [Khalid R]
+- **Your Name:** Khalid R
 - **Project Link:** [https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions](https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions)
